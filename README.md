@@ -7,7 +7,7 @@ De opdracht bestaat wederom uit twee type eisen, functionele eisen en technische
 Functionele eisen beschrijven welke functionaliteit je eindproduct moet bevatten. Functionele eisen mogen nooit van technische aard zijn! Ieder persoon moet begrijpen welke functionaliteit de opdracht moet bevatten, ongeacht kennis niveau.
 
 Recepten moet aan de volgende functionele eisen voldoen:
-* De pagina bevat een algemene introductie over het gerecht. Bijvoorbeeld uit welk land het gerecht komt.
+	* De pagina bevat een algemene introductie over het gerecht. Bijvoorbeeld uit welk land het gerecht komt.
 	* De pagina bevat een overzicht met daarin de bereidingstijd en voor hoeveel personen het gerecht is. 
 	* De pagina bevat een lijst met alle benodigde ingrediënten.
 	* De pagina bevat een lijst met daarin de bereidingswijze van het gerecht.
